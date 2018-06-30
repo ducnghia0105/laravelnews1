@@ -1,0 +1,43 @@
+TABLE
+
+option
+	- logo img
+	- top_ads_img
+	- top_ads_link
+	- fb_link
+	- google_link
+	- twitter_link
+	- vimeo_link
+	- pinter
+	
+
+menus
+	- id
+	- name
+	- parent_id	
+	- url
+
+category
+	- id
+	- name_cat
+	- cat_des
+	- cat_banner
+	- news_id
+
+news
+	- id
+	- news_name
+	- news_des
+	- news_content
+	- 
+
+tags
+	- id
+	- name
+ 
+news_tags
+	- id
+	- news_id
+	- tags_id
+
+ads
